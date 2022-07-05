@@ -4,7 +4,9 @@ go 1.18
 
 require (
 	github.com/gofiber/fiber/v2 v2.34.1
+	github.com/gofiber/template v1.6.28
 	github.com/gofiber/websocket/v2 v2.0.22
+	github.com/google/uuid v1.3.0
 )
 
 require (

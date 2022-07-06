@@ -1,4 +1,4 @@
-module github.com/woonmapao/go-video-conferencing
+module go-video-conferencing
 
 go 1.18
 

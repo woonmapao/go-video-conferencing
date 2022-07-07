@@ -25,7 +25,7 @@ var (
 func Run() error {
 	flag.Parse()
 
-	if *addr = ":"{
+	if *addr = ":" {
 		*addr = ":8080"
 	}
 
